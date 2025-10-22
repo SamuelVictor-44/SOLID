@@ -1,3 +1,5 @@
 class EnviarEmail {
-    System.out.println("Enviando e-mail de confirmação...");
+    void eletronicmail(){
+        System.out.println("Enviando e-mail de confirmação...");
+    }
 }

@@ -1,3 +1,3 @@
-class SalvarDadosBD(pedido) {
-    repositorio.salvar(pedido);
+interface SalvarDadosBD {
+    void salvar(Pedido pedido)
 }
